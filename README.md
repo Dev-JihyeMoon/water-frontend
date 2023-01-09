@@ -1,7 +1,7 @@
 # water-frontend
 react native로 해킹 구걸하는 앱 만들기.    
 Raspberry Pi로 datadase, 배포 환경 구축 후 On-premise 서버 운영하기.     
-backend 깃헙은 Private 으로 진행 
+backend 깃헙은 Private 으로 진행     
 최종마감기한(변동 가능성 있음): 2023-05-01       
 
 # 진행상황
