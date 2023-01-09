@@ -1,8 +1,8 @@
 # water-frontend
 react native로 해킹 구걸하는 앱 만들기.    
-Raspberry Pi로 datadase, 배포 환경 구축 후 On-premise 서버 운영하기.     
+Raspberry Pi로 On-premise database 서버 운영하기.     
 backend 깃헙은 Private 으로 진행     
-최종마감기한(변동 가능성 있음): 2023-05-01       
+최종마감기한(변동 가능성 있음): 2023-06-01       
 
 # 진행상황
 1차 프론트 마감 기한: 2023-02-01.         
