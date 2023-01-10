@@ -10,7 +10,7 @@ backend 깃헙은 Private 으로 진행
 목표 산출물: react-nanative UI Design(Figma), 서비스 전개도, 구글 개발자 등록 / frontend 1차 완성본, Raspberry Pi 도커 환경 세팅   
    
 디자인 피그마 링크: https://www.figma.com/file/x36ELkqCKePFQpGKyB69pB/Water?node-id=0%3A1&t=EjqPpmcypoZGRPGW-1
-https://www.figma.com/proto/x36ELkqCKePFQpGKyB69pB/Water?node-id=103%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A2
+프로토타입 버전: https://www.figma.com/proto/x36ELkqCKePFQpGKyB69pB/Water?node-id=103%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A2    
 
 
 # 개발할 것
