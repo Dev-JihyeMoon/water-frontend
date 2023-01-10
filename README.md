@@ -7,7 +7,9 @@ backend 깃헙은 Private 으로 진행
 
 # 진행상황
 1차 프론트 마감 기한: 2023-02-01.         
-목표 산출물: react-nanative UI Design, 서비스 전개도, 구글 개발자 등록 / frontend 1차 완성본, Raspberry Pi 도커 환경 세팅
+목표 산출물: react-nanative UI Design, 서비스 전개도, 구글 개발자 등록 / frontend 1차 완성본, Raspberry Pi 도커 환경 세팅   
+   
+디자인 피그마 링크: https://www.figma.com/file/x36ELkqCKePFQpGKyB69pB/Water?node-id=0%3A1&t=ZJCOMvOAivbnHK6W-0 
 
 # 개발할 것
 - 회원가입 기능이 없는 로그인 (알아서 뚫고 로그인 해주세요)  
