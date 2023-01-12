@@ -24,4 +24,5 @@ backend 깃헙은 Private 으로 진행
 
 - 단계 별로 전개도 공개
 
-# react-native app 
+# react-native app
+1월은 develop 브런치에서 진행
