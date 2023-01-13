@@ -23,6 +23,7 @@ backend 깃헙은 Private 으로 진행
 - 내 깃헙 링크
 
 - 단계 별로 전개도 공개
+- 지금 이정도 뚫렸다 라고 재밌게 알려줄 수 있는 아이디어 생각
 
 # react-native app
 1월은 develop 브런치에서 진행
