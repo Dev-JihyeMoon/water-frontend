@@ -1,5 +1,5 @@
 # water-frontend
-react native로 해킹 구걸하는 앱 만들기.    
+native / 모의해킹 웹&앱
 Raspberry Pi로 On-premise database 서버 운영하기.  
 기타 철저해야 하는 데이터는 AWS 클라우드 서비스 이용.   
 backend 깃헙은 Private 으로 진행     
@@ -27,6 +27,7 @@ backend 깃헙은 Private 으로 진행
 
 # 개발할 것
 - 회원가입 기능이 없는 로그인 (알아서 뚫고 로그인 해주세요)
+- ()
 - 방명록(인사 및 취약점 코멘트, 본인 깃헙 홍보(선택))
 - 타인 인증 글 수정하기(문구만)(작성 일자, 작성자)
 - 히든 계정 찾아 로그인
