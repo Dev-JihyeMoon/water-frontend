@@ -1,5 +1,5 @@
 # water-frontend
-native / 모의해킹 웹&앱
+native / 모의해킹 웹&앱    
 Raspberry Pi로 On-premise database 서버 운영하기.  
 기타 철저해야 하는 데이터는 AWS 클라우드 서비스 이용.   
 backend 깃헙은 Private 으로 진행     
